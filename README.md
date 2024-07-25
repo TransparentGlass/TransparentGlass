@@ -1,3 +1,1 @@
-ello, I'm new here. I'm trying to learn Django.
-
-<3
+Welcome to the amazing code of Glass!
